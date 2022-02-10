@@ -1,13 +1,13 @@
-# Agemt57(Deep Reinforcement Learning) for Keras-RL
-以下Qiita記事の実装コードとなります。
-コードの解説については記事を参照してください。
+# Agemt57 (Deep Reinforcement Learning) for Keras-RL
+Below is the implementation code for the Qiita article.
+See the article for a description of the code.
 
-+ [【強化学習】ついに人間を超えた！？Agent57を解説/実装してみた（Keras-RL）](https://qiita.com/pocokhc/items/8684c6c96d3d2963e284)
++ [[Reinforcement learning] Finally surpassed humans! ?? I tried to explain / implement Agent57 (Keras-RL)] (https://qiita.com/pocokhc/items/8684c6c96d3d2963e284)
 
 
-# 概要
-Keras 向けの強化学習ライブラリである [Keras-rl](https://github.com/keras-rl/keras-rl) の Agent を拡張したものとなります。  
-以下のアルゴリズムを実装しています。(非公式です)  
+# Overview
+It is an extension of the Agent of [Keras-rl] (https://github.com/keras-rl/keras-rl), which is a reinforcement learning library for Keras.
+It implements the following algorithm. (Unofficial)
 
 - Deep Q Learning(DQN)
 - Rainbow
